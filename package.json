@@ -1,0 +1,11 @@
+{
+  "name": "sparkling_shops",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/SparklingWeb/sparkling_shops",
+  "author": "Alexander Zagaynov <zalex80@gmail.com>",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "telegraf": "^3.38.0"
+  }
+}
